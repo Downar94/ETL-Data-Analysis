@@ -6,7 +6,7 @@
 * [Business questions](#BQ)
 * [ETL](#SSIS)
 * [Analysis Services](#SSAS)
-* [DataVisualization](#DS)
+* [Data Visualization](#DS)
 
 
 # Business questions
@@ -42,3 +42,9 @@ Business questions will help us select the appropriate data from data sets, desi
 The whole etl process performed for each dataset is described in the pdf files in the SSIS folder.
 # Analysis Services
 The whole cube making process performed for each dataset is described in the pdf files in the SSAS folder.
+# Data Visualization
+![vaccinations](https://user-images.githubusercontent.com/44844566/217676363-83f39c86-26ba-416c-96f9-5107734e94fe.PNG)
+![Tests](https://user-images.githubusercontent.com/44844566/217676390-d35a3588-2dd8-4bdf-9ca6-c2b1d79f4ecb.PNG)
+![new_cases](https://user-images.githubusercontent.com/44844566/217676401-19ee6301-bdb7-4613-af49-ad57aa0c10bc.PNG)
+![mortality](https://user-images.githubusercontent.com/44844566/217676413-a67d8119-82da-41bd-9947-91e825b4fdf0.PNG)
+![hospitalization](https://user-images.githubusercontent.com/44844566/217676419-1e834142-a998-4ce8-a6b8-043d0d717acc.PNG)
