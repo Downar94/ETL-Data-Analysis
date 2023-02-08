@@ -30,11 +30,12 @@ Business questions will help us select the appropriate data from data sets, desi
 3. What is the critical rate for the 5 moves with the highest critical rate? What are the categories of these moves?
 4. What is the speed priority for the 5 moves with the highest speed priority? What are the types of these moves?
 5. What is the base power for the 5 moves with the highest base power? What are the types of these moves?
-6. What is the correlation between power points, critical rate and accuracy between move with the highest power points number, accuracy, critical rate, speed priority and base power?
-7. What is the correlation between power points, accuracy and speed priority between move with the highest power points number, accuracy, critical rate, speed priority and base power?
+6. What is the correlation between power points, critical rate and accuracy between moves with the highest power points number, accuracy, critical rate, speed priority and base power?
+7. What is the correlation between power points, accuracy and speed priority between moves with the highest power points number, accuracy, critical rate, speed priority and base power?
 8. What is the attack value for the 4 pokemons with the best attack?
 9. What is the defense value for the 4 pokemons with the best defense?
 10. What is the HP value for the 4 pokemons with the highest HP?
 11. What is the speed value for the 4 pokemons fastest pokemons?
-
+12. What is the correlation between attack, defense and speed between pokemons with the highest attack, defense, HP and speed?
+13. What is the correlation between special attack, special defense and hp between pokemons with the highest attack, defense, HP and speed?
 
