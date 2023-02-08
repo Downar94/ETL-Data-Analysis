@@ -1,0 +1,103 @@
+index,Pokemon,Ability,Type1_form,Type2_form,Ability_1,Ability_2,Ability_3
+0,Annihilape,Inner Focus,fighting,ghost,Inner Focus,Defiant,Vital Spirit
+3,Arboliva,Harvest,grass,normal,Harvest,Seed Sower,missing
+5,Arctibax,Ice Body,ice,dragon,Ice Body,Thermal Exchange,missing
+7,Armarouge,Weak Armor,fire,psychic,Weak Armor,Flash Fire,missing
+9,Baxcalibur,Thermal Exchange,ice,dragon,Thermal Exchange,Ice Body,missing
+11,Bellibolt,Damp,electric,missing,Damp,Electromorphosis,Static
+14,Bombirdier,Keen Eye,flying,dark,Keen Eye,Big Pecks,Rocky Payload
+17,Brambleghast,Wind Rider,grass,ghost,Wind Rider,Infiltrator,missing
+19,Bramblin,Wind Rider,grass,ghost,Wind Rider,Infiltrator,missing
+21,Brute Bonnet,Protosynthesis,dark,grass,Protosynthesis,missing,missing
+22,Capsakid,Klutz,grass,missing,Klutz,Insomnia,Chlorophyll
+25,Ceruledge,Weak Armor,fire,ghost,Weak Armor,Flash Fire,missing
+27,Cetitan,Slush Rush,ice,missing,Slush Rush,Sheer Force,Thick Fat
+30,Cetoddle,Snow Cloak,ice,missing,Snow Cloak,Thick Fat,Sheer Force
+33,Charcadet,Flame Body,fire,missing,Flame Body,Flash Fire,missing
+35,Chien-Pao,Sword of Ruin,dark,ice,Sword of Ruin,missing,missing
+36,Chi-Yu,Beads of Ruin,dark,fire,Beads of Ruin,missing,missing
+37,Clodsire,Poison Point,ground,poison,Poison Point,Unaware,Water Absorb
+40,Crocalor,Unaware,fire,missing,Unaware,Blaze,missing
+42,Cyclizar,Shed Skin,dragon,normal,Shed Skin,Regenerator,missing
+44,Dachsbun,Aroma Veil,fairy,missing,Aroma Veil,Well-Baked Body,missing
+46,Dolliv,Harvest,normal,grass,Harvest,Early Bird,missing
+48,Dondozo,Oblivious,water,missing,Oblivious,Water Veil,Unaware
+51,Espathra,Frisk,psychic,missing,Frisk,Opportunist,Speed Boost
+54,Farigiraf,Cud Chew,normal,psychic,Cud Chew,Armor Tail,Sap Sipper
+57,Fidough,Own Tempo,fairy,missing,Own Tempo,Klutz,missing
+59,Finizen,Water Veil,water,missing,Water Veil,missing,missing
+60,Flamigo,Scrappy,fighting,flying,Scrappy,Tangled Feet,Costar
+63,Flittle,Speed Boost,psychic,missing,Speed Boost,Anticipation,Frisk
+66,Floragato,Protean,grass,missing,Protean,Overgrow,missing
+68,Flutter Mane,Protosynthesis,fairy,ghost,Protosynthesis,missing,missing
+69,Frigibax,Ice Body,ice,dragon,Ice Body,Thermal Exchange,missing
+71,Fuecoco,Blaze,fire,missing,Blaze,Unaware,missing
+73,Garganacl,Purifying Salt,rock,missing,Purifying Salt,Clear Body,Sturdy
+76,Gholdengo,Good as Gold,steel,ghost,Good as Gold,missing,missing
+77,Gimmighoul,Rattled,ghost,missing,Rattled,missing,missing
+78,Glimmet,Toxic Debris,poison,rock,Toxic Debris,Corrosion,missing
+80,Glimmora,Toxic Debris,rock,poison,Toxic Debris,Corrosion,missing
+82,Grafaiai,Prankster,poison,normal,Prankster,Poison Touch,Unburden
+85,Great Tusk,Protosynthesis,ground,fighting,Protosynthesis,missing,missing
+86,Greavard,Pickup,ghost,missing,Pickup,Fluffy,missing
+88,Houndstone,Sand Rush,ghost,missing,Sand Rush,Fluffy,missing
+90,Iron Bundle,Quark Drive,ice,water,Quark Drive,missing,missing
+91,Iron Hands,Quark Drive,fighting,electric,Quark Drive,missing,missing
+92,Iron Jugulis,Quark Drive,dark,flying,Quark Drive,missing,missing
+93,Iron Moth,Quark Drive,poison,fire,Quark Drive,missing,missing
+94,Iron Thorns,Quark Drive,electric,rock,Quark Drive,missing,missing
+95,Iron Treads,Quark Drive,ground,steel,Quark Drive,missing,missing
+96,Iron Valiant,Quark Drive,fighting,fairy,Quark Drive,missing,missing
+97,Kilowattrel,Wind Power,flying,electric,Wind Power,Competitive,Volt Absorb
+100,Kingambit,Defiant,steel,dark,Defiant,Pressure,Supreme Overlord
+103,Klawf,Shell Armor,rock,missing,Shell Armor,Regenerator,Anger Shell
+106,Koraidon,Orichalcum Pulse,fighting,dragon,Orichalcum Pulse,missing,missing
+107,Lechonk,Thick Fat,normal,missing,Thick Fat,Gluttony,Aroma Veil
+110,Lokix,Tinted Lens,dark,bug,Tinted Lens,Swarm,missing
+112,Mabosstiff,Guard Dog,dark,missing,Guard Dog,Stakeout,Intimidate
+115,Maschiff,Run Away,dark,missing,Run Away,Stakeout,Intimidate
+118,Maushold,Cheek Pouch,normal,missing,Cheek Pouch,Friend Guard,Technician
+121,Meowscarada,Overgrow,dark,grass,Overgrow,Protean,missing
+123,Miraidon,Hadron Engine,dragon,electric,Hadron Engine,missing,missing
+124,Nacli,Clear Body,rock,missing,Clear Body,Purifying Salt,Sturdy
+127,Naclstack,Clear Body,rock,missing,Clear Body,Sturdy,Purifying Salt
+130,Nymble,Tinted Lens,bug,missing,Tinted Lens,Swarm,missing
+132,Oinkologne,Thick Fat,normal,missing,Thick Fat,Lingering Aroma,Gluttony
+135,Orthworm,Sand Veil,steel,missing,Sand Veil,Earth Eater,missing
+137,Palafin,Zero to Hero,water,missing,Zero to Hero,missing,missing
+138,Pawmi,Static,electric,missing,Static,Natural Cure,Iron Fist
+141,Pawmo,Volt Absorb,fighting,electric,Volt Absorb,Iron Fist,Natural Cure
+144,Pawmot,Natural Cure,electric,fighting,Natural Cure,Iron Fist,Volt Absorb
+147,Quaquaval,Moxie,water,fighting,Moxie,Torrent,missing
+149,Quaxly,Moxie,water,missing,Moxie,Torrent,missing
+151,Quaxwell,Moxie,water,missing,Moxie,Torrent,missing
+153,Rabsca,Synchronize,bug,psychic,Synchronize,Telepathy,missing
+155,Rellor,Shed Skin,bug,missing,Shed Skin,Compoundeyes,missing
+157,Revavroom,Overcoat,poison,steel,Overcoat,Filter,missing
+159,Roaring Moon,Protosynthesis,dark,dragon,Protosynthesis,missing,missing
+160,Sandy Shocks,Protosynthesis,ground,electric,Protosynthesis,missing,missing
+161,Scovillain,Insomnia,grass,fire,Insomnia,Chlorophyll,Moody
+164,Scream Tail,Protosynthesis,psychic,fairy,Protosynthesis,missing,missing
+165,Shroodle,Unburden,normal,poison,Unburden,Pickpocket,Prankster
+168,Skeledirge,Blaze,ghost,fire,Blaze,Unaware,missing
+170,Slither Wing,Protosynthesis,fighting,bug,Protosynthesis,missing,missing
+171,Smoliv,Early Bird,normal,grass,Early Bird,Harvest,missing
+173,Spidops,Stakeout,bug,missing,Stakeout,Insomnia,missing
+175,Sprigatito,Protean,grass,missing,Protean,Overgrow,missing
+177,Squawkabilly,Intimidate,normal,flying,Intimidate,Hustle,Guts
+180,Tadbulb,Damp,electric,missing,Damp,Own Tempo,Static
+183,Tandemaus,Pickup,normal,missing,Pickup,Own Tempo,Run Away
+186,Tarountula,Insomnia,bug,missing,Insomnia,Stakeout,missing
+188,Tatsugiri,Commander,dragon,water,Commander,Storm Drain,missing
+190,Ting-Lu,Vessel of Ruin,dark,ground,Vessel of Ruin,missing,missing
+191,Tinkatink,Pickpocket,fairy,steel,Pickpocket,Mold Breaker,Own Tempo
+194,Tinkaton,Own Tempo,steel,fairy,Own Tempo,Mold Breaker,Pickpocket
+197,Tinkatuff,Mold Breaker,steel,fairy,Mold Breaker,Own Tempo,Pickpocket
+200,Toedscool,Mycelium Might,grass,ground,Mycelium Might,missing,missing
+201,Toedscruel,Mycelium Might,grass,ground,Mycelium Might,missing,missing
+202,Varoom,Overcoat,steel,poison,Overcoat,Slow Start,missing
+204,Veluza,Sharpness,water,psychic,Sharpness,Mold Breaker,missing
+206,Wattrel,Volt Absorb,flying,electric,Volt Absorb,Competitive,Wind Power
+209,Wiglett,Gooey,water,missing,Gooey,Rattled,Sand Veil
+212,Wo-Chien,Tablets of Ruin,dark,grass,Tablets of Ruin,missing,missing
+213,Wugtrio,Gooey,water,missing,Gooey,Sand Veil,Rattled

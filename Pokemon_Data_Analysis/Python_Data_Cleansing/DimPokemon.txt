@@ -1,0 +1,217 @@
+Pokemon,Ability,Type1_form,Type2_form
+Annihilape,Inner Focus,fighting,ghost
+Annihilape,Defiant,fighting,ghost
+Annihilape,Vital Spirit,fighting,ghost
+Arboliva,Harvest,grass,normal
+Arboliva,Seed Sower,grass,normal
+Arctibax,Ice Body,ice,dragon
+Arctibax,Thermal Exchange,ice,dragon
+Armarouge,Weak Armor,fire,psychic
+Armarouge,Flash Fire,fire,psychic
+Baxcalibur,Thermal Exchange,ice,dragon
+Baxcalibur,Ice Body,ice,dragon
+Bellibolt,Damp,electric,missing
+Bellibolt,Electromorphosis,electric,missing
+Bellibolt,Static,electric,missing
+Bombirdier,Keen Eye,flying,dark
+Bombirdier,Big Pecks,flying,dark
+Bombirdier,Rocky Payload,flying,dark
+Brambleghast,Wind Rider,grass,ghost
+Brambleghast,Infiltrator,grass,ghost
+Bramblin,Wind Rider,grass,ghost
+Bramblin,Infiltrator,grass,ghost
+Brute Bonnet,Protosynthesis,dark,grass
+Capsakid,Klutz,grass,missing
+Capsakid,Insomnia,grass,missing
+Capsakid,Chlorophyll,grass,missing
+Ceruledge,Weak Armor,fire,ghost
+Ceruledge,Flash Fire,fire,ghost
+Cetitan,Slush Rush,ice,missing
+Cetitan,Sheer Force,ice,missing
+Cetitan,Thick Fat,ice,missing
+Cetoddle,Snow Cloak,ice,missing
+Cetoddle,Thick Fat,ice,missing
+Cetoddle,Sheer Force,ice,missing
+Charcadet,Flame Body,fire,missing
+Charcadet,Flash Fire,fire,missing
+Chien-Pao,Sword of Ruin,dark,ice
+Chi-Yu,Beads of Ruin,dark,fire
+Clodsire,Poison Point,ground,poison
+Clodsire,Unaware,ground,poison
+Clodsire,Water Absorb,ground,poison
+Crocalor,Unaware,fire,missing
+Crocalor,Blaze,fire,missing
+Cyclizar,Shed Skin,dragon,normal
+Cyclizar,Regenerator,dragon,normal
+Dachsbun,Aroma Veil,fairy,missing
+Dachsbun,Well-Baked Body,fairy,missing
+Dolliv,Harvest,normal,grass
+Dolliv,Early Bird,normal,grass
+Dondozo,Oblivious,water,missing
+Dondozo,Water Veil,water,missing
+Dondozo,Unaware,water,missing
+Espathra,Frisk,psychic,missing
+Espathra,Opportunist,psychic,missing
+Espathra,Speed Boost,psychic,missing
+Farigiraf,Cud Chew,normal,psychic
+Farigiraf,Armor Tail,normal,psychic
+Farigiraf,Sap Sipper,normal,psychic
+Fidough,Own Tempo,fairy,missing
+Fidough,Klutz,fairy,missing
+Finizen,Water Veil,water,missing
+Flamigo,Scrappy,fighting,flying
+Flamigo,Tangled Feet,fighting,flying
+Flamigo,Costar,fighting,flying
+Flittle,Speed Boost,psychic,missing
+Flittle,Anticipation,psychic,missing
+Flittle,Frisk,psychic,missing
+Floragato,Protean,grass,missing
+Floragato,Overgrow,grass,missing
+Flutter Mane,Protosynthesis,fairy,ghost
+Frigibax,Ice Body,ice,dragon
+Frigibax,Thermal Exchange,ice,dragon
+Fuecoco,Blaze,fire,missing
+Fuecoco,Unaware,fire,missing
+Garganacl,Purifying Salt,rock,missing
+Garganacl,Clear Body,rock,missing
+Garganacl,Sturdy,rock,missing
+Gholdengo,Good as Gold,steel,ghost
+Gimmighoul,Rattled,ghost,missing
+Glimmet,Toxic Debris,poison,rock
+Glimmet,Corrosion,poison,rock
+Glimmora,Toxic Debris,rock,poison
+Glimmora,Corrosion,rock,poison
+Grafaiai,Prankster,poison,normal
+Grafaiai,Poison Touch,poison,normal
+Grafaiai,Unburden,poison,normal
+Great Tusk,Protosynthesis,ground,fighting
+Greavard,Pickup,ghost,missing
+Greavard,Fluffy,ghost,missing
+Houndstone,Sand Rush,ghost,missing
+Houndstone,Fluffy,ghost,missing
+Iron Bundle,Quark Drive,ice,water
+Iron Hands,Quark Drive,fighting,electric
+Iron Jugulis,Quark Drive,dark,flying
+Iron Moth,Quark Drive,poison,fire
+Iron Thorns,Quark Drive,electric,rock
+Iron Treads,Quark Drive,ground,steel
+Iron Valiant,Quark Drive,fighting,fairy
+Kilowattrel,Wind Power,flying,electric
+Kilowattrel,Competitive,flying,electric
+Kilowattrel,Volt Absorb,flying,electric
+Kingambit,Defiant,steel,dark
+Kingambit,Pressure,steel,dark
+Kingambit,Supreme Overlord,steel,dark
+Klawf,Shell Armor,rock,missing
+Klawf,Regenerator,rock,missing
+Klawf,Anger Shell,rock,missing
+Koraidon,Orichalcum Pulse,fighting,dragon
+Lechonk,Thick Fat,normal,missing
+Lechonk,Gluttony,normal,missing
+Lechonk,Aroma Veil,normal,missing
+Lokix,Tinted Lens,dark,bug
+Lokix,Swarm,dark,bug
+Mabosstiff,Guard Dog,dark,missing
+Mabosstiff,Stakeout,dark,missing
+Mabosstiff,Intimidate,dark,missing
+Maschiff,Run Away,dark,missing
+Maschiff,Stakeout,dark,missing
+Maschiff,Intimidate,dark,missing
+Maushold,Cheek Pouch,normal,missing
+Maushold,Friend Guard,normal,missing
+Maushold,Technician,normal,missing
+Meowscarada,Overgrow,dark,grass
+Meowscarada,Protean,dark,grass
+Miraidon,Hadron Engine,dragon,electric
+Nacli,Clear Body,rock,missing
+Nacli,Purifying Salt,rock,missing
+Nacli,Sturdy,rock,missing
+Naclstack,Clear Body,rock,missing
+Naclstack,Sturdy,rock,missing
+Naclstack,Purifying Salt,rock,missing
+Nymble,Tinted Lens,bug,missing
+Nymble,Swarm,bug,missing
+Oinkologne,Thick Fat,normal,missing
+Oinkologne,Lingering Aroma,normal,missing
+Oinkologne,Gluttony,normal,missing
+Orthworm,Sand Veil,steel,missing
+Orthworm,Earth Eater,steel,missing
+Palafin,Zero to Hero,water,missing
+Pawmi,Static,electric,missing
+Pawmi,Natural Cure,electric,missing
+Pawmi,Iron Fist,electric,missing
+Pawmo,Volt Absorb,fighting,electric
+Pawmo,Iron Fist,fighting,electric
+Pawmo,Natural Cure,fighting,electric
+Pawmot,Natural Cure,electric,fighting
+Pawmot,Iron Fist,electric,fighting
+Pawmot,Volt Absorb,electric,fighting
+Quaquaval,Moxie,water,fighting
+Quaquaval,Torrent,water,fighting
+Quaxly,Moxie,water,missing
+Quaxly,Torrent,water,missing
+Quaxwell,Moxie,water,missing
+Quaxwell,Torrent,water,missing
+Rabsca,Synchronize,bug,psychic
+Rabsca,Telepathy,bug,psychic
+Rellor,Shed Skin,bug,missing
+Rellor,Compoundeyes,bug,missing
+Revavroom,Overcoat,poison,steel
+Revavroom,Filter,poison,steel
+Roaring Moon,Protosynthesis,dark,dragon
+Sandy Shocks,Protosynthesis,ground,electric
+Scovillain,Insomnia,grass,fire
+Scovillain,Chlorophyll,grass,fire
+Scovillain,Moody,grass,fire
+Scream Tail,Protosynthesis,psychic,fairy
+Shroodle,Unburden,normal,poison
+Shroodle,Pickpocket,normal,poison
+Shroodle,Prankster,normal,poison
+Skeledirge,Blaze,ghost,fire
+Skeledirge,Unaware,ghost,fire
+Slither Wing,Protosynthesis,fighting,bug
+Smoliv,Early Bird,normal,grass
+Smoliv,Harvest,normal,grass
+Spidops,Stakeout,bug,missing
+Spidops,Insomnia,bug,missing
+Sprigatito,Protean,grass,missing
+Sprigatito,Overgrow,grass,missing
+Squawkabilly,Intimidate,normal,flying
+Squawkabilly,Hustle,normal,flying
+Squawkabilly,Guts,normal,flying
+Tadbulb,Damp,electric,missing
+Tadbulb,Own Tempo,electric,missing
+Tadbulb,Static,electric,missing
+Tandemaus,Pickup,normal,missing
+Tandemaus,Own Tempo,normal,missing
+Tandemaus,Run Away,normal,missing
+Tarountula,Insomnia,bug,missing
+Tarountula,Stakeout,bug,missing
+Tatsugiri,Commander,dragon,water
+Tatsugiri,Storm Drain,dragon,water
+Ting-Lu,Vessel of Ruin,dark,ground
+Tinkatink,Pickpocket,fairy,steel
+Tinkatink,Mold Breaker,fairy,steel
+Tinkatink,Own Tempo,fairy,steel
+Tinkaton,Own Tempo,steel,fairy
+Tinkaton,Mold Breaker,steel,fairy
+Tinkaton,Pickpocket,steel,fairy
+Tinkatuff,Mold Breaker,steel,fairy
+Tinkatuff,Own Tempo,steel,fairy
+Tinkatuff,Pickpocket,steel,fairy
+Toedscool,Mycelium Might,grass,ground
+Toedscruel,Mycelium Might,grass,ground
+Varoom,Overcoat,steel,poison
+Varoom,Slow Start,steel,poison
+Veluza,Sharpness,water,psychic
+Veluza,Mold Breaker,water,psychic
+Wattrel,Volt Absorb,flying,electric
+Wattrel,Competitive,flying,electric
+Wattrel,Wind Power,flying,electric
+Wiglett,Gooey,water,missing
+Wiglett,Rattled,water,missing
+Wiglett,Sand Veil,water,missing
+Wo-Chien,Tablets of Ruin,dark,grass
+Wugtrio,Gooey,water,missing
+Wugtrio,Sand Veil,water,missing
+Wugtrio,Rattled,water,missing
