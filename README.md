@@ -38,4 +38,7 @@ Business questions will help us select the appropriate data from data sets, desi
 11. What is the speed value for the 4 pokemons fastest pokemons?
 12. What is the correlation between attack, defense and speed between pokemons with the highest attack, defense, HP and speed?
 13. What is the correlation between special attack, special defense and hp between pokemons with the highest attack, defense, HP and speed?
-
+# ETL
+The whole etl process performed for each dataset is described in the pdf files in the SSIS folder.
+# Analysis Services
+The whole cube making process performed for each dataset is described in the pdf files in the SSAS folder.
