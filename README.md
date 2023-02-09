@@ -10,7 +10,32 @@
 
 # Datasets
 ## Covid dataset
+###  1. country_vaccinations.csv: 
+
+country, iso_code, date, total_vaccinations, people_vaccinated, people_fully_vaccinated, daily_vaccinations_raw, daily_vaccinations, total_vaccinations_per_hundred, people_vaccinated_per_hundred, people_fully_vaccinated_per_hundred, daily_vaccinations_per_million, vaccines, source_name, source_website
+ 
+###  2. country_vaccinations_by_manufacturer.csv:
+location, date, vaccine, total_vaccinations
+
+###  3. covid_19_clean_complete.csv:
+Province/State, Country/Region, Lat, Long, Date, Confirmed, Deaths, Recovered, Active, WHO Region
+
+###  4. cowid-covid-data-full.csv:
+iso_code, continent, location, date, total_cases, new_cases, new_cases_smoothed, total_deaths, new_deaths, new_deaths_smoothed, total_cases_per_million, new_cases_per_million, new_cases_smoothed_per_million, total_deaths_per_million, new_deaths_per_million, new_deaths_smoothed_per_million, reproduction_rate, icu_patients, icu_patients_per_million, hosp_patients, hosp_patients_per_million, weekly_icu_admissions, weekly_icu_admissions_per_million, weekly_hosp_admissions, weekly_hosp_admissions_per_million, total_tests, new_tests, total_tests_per_thousand, new_tests_per_thousand, new_tests_smoothed, new_tests_smoothed_per_thousand, positive_rate, tests_per_case, tests_units, total_vaccinations, people_vaccinated, people_fully_vaccinated, total_boosters, new_vaccinations, new_vaccinations_smoothed, total_vaccinations_per_hundred, people_vaccinated_per_hundred, people_fully_vaccinated_per_hundred, total_boosters_per_hundred, new_vaccinations_smoothed_per_million, new_people_vaccinated_smoothed, new_people_vaccinated_smoothed_per_hundred, stringency_index, population_density, median_age, aged_65_older, aged_70_older, gdp_per_capita, extreme_poverty, cardiovasc_death_rate, diabetes_prevalence, female_smokers, male_smokers, handwashing_facilities, hospital_beds_per_thousand, life_expectancy, human_development_index, population, excess_mortality_cumulative_absolute, excess_mortality_cumulative, excess_mortality, excess_mortality_cumulative_per_million
+
+###  4. vaccinations-by-age-group.csv:
+location, date, age_group, people_vaccinated_per_hundred, people_fully_vaccinated_per_hundred, people_with_booster_per_hundred
+
 ## Pokemon dataset
+###  1. gen9_pokemon_abilities.csv: 
+Ability, Pokemon, Game's Text, In-Depth Effect, Ability URL
+
+###  2. gen9_pokemon_moves.csv: 
+Move, Type, Category, Power Points, Base Power, Accuracy, Battle Effect, Secondary Effect, Secondary Rate, Critical Rate, Speed Priority, Attack URL, Pokemon
+
+###  3. gen9_pokemon_stats.csv: 
+Pokemon, Type 1, Type 2, HP, Attack, Defense, Special Attack, Special Defense, Speed, Weakness-Normal, Weakness-Fire, Weakness-Water, Weakness-Electric, Weakness-Grass, Weakness-Ice, Weakness-Fighting, Weakness-Poison, Weakness-Ground, Weakness-Flying, Weakness-Psychic, Weakness-Bug, Weakness-Rock, Weakness-Ghost, Weakness-Dragon, Weakness-Dark, Weakness-Steel, Weakness-Fairy
+
 
 # Business questions
 Business questions will help us select the appropriate data from data sets, design the ETL process. We can answer them with appropriate reports and visualizations using tools (Power BI Desktop) for Business Intelligence. 
