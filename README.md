@@ -8,6 +8,9 @@
 * [Analysis Services](#SSAS)
 * [Data Visualization](#DS)
 
+# Datasets
+## Covid dataset
+## Pokemon dataset
 
 # Business questions
 Business questions will help us select the appropriate data from data sets, design the ETL process. We can answer them with appropriate reports and visualizations using tools (Power BI Desktop) for Business Intelligence. 
