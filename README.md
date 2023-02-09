@@ -44,6 +44,7 @@ The whole etl process performed for each dataset is described in the pdf files i
 # Analysis Services
 The whole cube making process performed for each dataset is described in the pdf files in the SSAS folder.
 # Data Visualization
+#### Covid Dataset
 * The incidence of covid for the 2nd quarter of 2020 and the incidence per million of covid for the 2nd quarter of 2020, for 5 countries with the highest covid incidence per million in the 2nd quarter of 2020 (1 and 2 business questions): 
 
 ![new_cases](https://user-images.githubusercontent.com/44844566/217676401-19ee6301-bdb7-4613-af49-ad57aa0c10bc.PNG)
@@ -64,6 +65,7 @@ The whole cube making process performed for each dataset is described in the pdf
 
 ![vaccinations](https://user-images.githubusercontent.com/44844566/217676363-83f39c86-26ba-416c-96f9-5107734e94fe.PNG)
 
+#### Pokemon dataset
 
 ![move_statistics](https://user-images.githubusercontent.com/44844566/217677006-9ee144a3-04cc-43f6-9aaf-566a782a98ce.PNG)
 ![Moves_Statistics_Correlation](https://user-images.githubusercontent.com/44844566/217677008-b87affe8-5f07-4a15-843b-f043936338dd.PNG)
