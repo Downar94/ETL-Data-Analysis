@@ -23,7 +23,7 @@ Business questions will help us select the appropriate data from data sets, desi
 8. What is the number of icu patients due to covid per million for the 2nd quarter of 2020, for 5 countries which have the highest number of icu patients due to covid per million in the 2nd quarter of 2020?
 9. What is the correlation between covid vaccinations and incidence of covid for Argentina, for the first 9 months of 2021?
 10. What is the correlation between incidence of covid and covid tests performed for Argentina, for the first 9 months of 2021?
-11. What is the correlation between covid vaccinations and mcovid mortality for Argentina, for the first 9 months of 2021?
+11. What is the correlation between covid vaccinations and covid mortality for Argentina, for the first 9 months of 2021?
 #### Business questions for the pokemon dataset:
 1. What is the power points number for the 5 moves with the highest power points number? What are the categories of these moves?
 2. What is the accuracy for the 5 moves with the highest accuracy? What are the categories of these moves?
@@ -44,11 +44,26 @@ The whole etl process performed for each dataset is described in the pdf files i
 # Analysis Services
 The whole cube making process performed for each dataset is described in the pdf files in the SSAS folder.
 # Data Visualization
-![vaccinations](https://user-images.githubusercontent.com/44844566/217676363-83f39c86-26ba-416c-96f9-5107734e94fe.PNG)
-![Tests](https://user-images.githubusercontent.com/44844566/217676390-d35a3588-2dd8-4bdf-9ca6-c2b1d79f4ecb.PNG)
+* The incidence of covid for the 2nd quarter of 2020 and the incidence per million of covid for the 2nd quarter of 2020, for 5 countries with the highest covid incidence per million in the 2nd quarter of 2020 (1 and 2 business questions): 
+
 ![new_cases](https://user-images.githubusercontent.com/44844566/217676401-19ee6301-bdb7-4613-af49-ad57aa0c10bc.PNG)
+
+* The covid mortality for the 2nd quarter of 2020 and the covid mortality per million for the 2nd quarter of 2020, for 5 countries with the highest covid mortality per million in the 2nd quarter of 2020 (3 and 4 business questions):
+
 ![mortality](https://user-images.githubusercontent.com/44844566/217676413-a67d8119-82da-41bd-9947-91e825b4fdf0.PNG)
+
+* The number of covid tests for the 2nd quarter of 2020 and the number of covid tests per million for the 2nd quarter of 2020, for 5 countries which performed the highest number of covid tests per million in the 2nd quarter of 2020 (5 and 6 business questions):
+
+![Tests](https://user-images.githubusercontent.com/44844566/217676390-d35a3588-2dd8-4bdf-9ca6-c2b1d79f4ecb.PNG)
+
+* The number of patients hospitalized due to covid and icu patients per million for the 2nd quarter of 2020, for 5 countries which have the highest number of patients hospitalized due to covid and icu patients per million in the 2nd quarter of 2020 (7 and 8 business questions):
+
 ![hospitalization](https://user-images.githubusercontent.com/44844566/217676419-1e834142-a998-4ce8-a6b8-043d0d717acc.PNG)
+
+* The correlation between covid vaccinations and incidence of covid, incidence of covid and covid tests, covid vaccinations and mcovid mortality for Argentina, for the first 9 months of 2021 (9, 10, 11 business questions):
+
+![vaccinations](https://user-images.githubusercontent.com/44844566/217676363-83f39c86-26ba-416c-96f9-5107734e94fe.PNG)
+
 
 ![move_statistics](https://user-images.githubusercontent.com/44844566/217677006-9ee144a3-04cc-43f6-9aaf-566a782a98ce.PNG)
 ![Moves_Statistics_Correlation](https://user-images.githubusercontent.com/44844566/217677008-b87affe8-5f07-4a15-843b-f043936338dd.PNG)
