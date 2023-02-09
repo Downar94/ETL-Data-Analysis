@@ -1,14 +1,15 @@
 # SSIS-SSAS-DataVisualization
 ## Table of contents
 * [Datasets](#datasets)
-  * Covid dataset
-  * Pokemon dataset
+  * [Covid dataset](#CDS)
+  * [Pokemon dataset](#PDS)
 * [Business questions](#BQ)
 * [ETL](#SSIS)
 * [Analysis Services](#SSAS)
 * [Data Visualization](#DS)
-
+<a name="datasets"></a>
 # Datasets
+<a name="CDS"></a>
 ## Covid dataset
 ###  1. country_vaccinations.csv: 
 
@@ -25,7 +26,7 @@ iso_code, continent, location, date, total_cases, new_cases, new_cases_smoothed,
 
 ###  4. vaccinations-by-age-group.csv:
 location, date, age_group, people_vaccinated_per_hundred, people_fully_vaccinated_per_hundred, people_with_booster_per_hundred
-
+<a name="PDS"></a>
 ## Pokemon dataset
 ###  1. gen9_pokemon_abilities.csv: 
 Ability, Pokemon, Game's Text, In-Depth Effect, Ability URL
@@ -36,7 +37,7 @@ Move, Type, Category, Power Points, Base Power, Accuracy, Battle Effect, Seconda
 ###  3. gen9_pokemon_stats.csv: 
 Pokemon, Type 1, Type 2, HP, Attack, Defense, Special Attack, Special Defense, Speed, Weakness-Normal, Weakness-Fire, Weakness-Water, Weakness-Electric, Weakness-Grass, Weakness-Ice, Weakness-Fighting, Weakness-Poison, Weakness-Ground, Weakness-Flying, Weakness-Psychic, Weakness-Bug, Weakness-Rock, Weakness-Ghost, Weakness-Dragon, Weakness-Dark, Weakness-Steel, Weakness-Fairy
 
-
+<a name="BQ"></a>
 # Business questions
 Business questions will help us select the appropriate data from data sets, design the ETL process. We can answer them with appropriate reports and visualizations using tools (Power BI Desktop) for Business Intelligence. 
 
@@ -67,10 +68,13 @@ Business questions will help us select the appropriate data from data sets, desi
 12. What is the correlation between attack, defense and speed for the pokemons with the highest attack, defense, HP and speed?
 13. What is the correlation between special attack, special defense and hp for the pokemons with the highest attack, defense, HP and speed?
 14. What is the correlation between weaknesses of fire, electric, water and ice for the pokemons with the highest attack, defense, HP and speed?
+<a name="SSIS"></a>
 # ETL
 The whole etl process performed for each dataset is described in the pdf files in the SSIS folder.
+<a name="SSAS"></a>
 # Analysis Services
 The whole cube making process performed for each dataset is described in the pdf files in the SSAS folder.
+<a name="DS"></a>
 # Data Visualization
 #### Covid Dataset
 * The incidence of covid for the 2nd quarter of 2020 and the incidence per million of covid for the 2nd quarter of 2020, for 5 countries with the highest covid incidence per million in the 2nd quarter of 2020 (1 and 2 business questions): 
