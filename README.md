@@ -1,4 +1,4 @@
-# SSIS-SSAS-DataVisualization
+# Data-Analysis
 ## Table of contents
 * [Datasets](#datasets)
   * [Covid dataset](#CDS)
